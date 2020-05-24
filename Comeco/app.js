@@ -1,1 +1,1 @@
-$('p').hide();
+$('p[class="sumir"]').hide();
